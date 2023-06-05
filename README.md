@@ -6,13 +6,11 @@
 
 ## About Me
 
-[![Blog][7]][1] [![Twitter][5]][4] [![Email][6]][2] [![Visitor][8]][3]
+[![Blog][6]][1] [![Twitter][4]][3] [![Email][5]][2]
 
 [1]: https://DongHuangT1.com
 [2]: mailto:DongHuangT1@qq.com
-[3]: https://github.com/DongHuangT1
-[4]: https://twitter.com/intent/follow?screen_name=DongHuangT1
-[5]: https://img.shields.io/twitter/follow/DongHuangT1?label=@Twitter&style=social
-[6]: https://img.shields.io/badge/@Email-😎-success?style=social&logo=Minutemailer
-[7]: https://img.shields.io/badge/Blog-DongHuangT1-orange?style=flat&logo=Cloudflare
-[8]: https://visitor-badge.glitch.me/badge?page_id=DongHuangT1&right_color=brightgreen
+[3]: https://twitter.com/intent/follow?screen_name=DongHuangT1
+[4]: https://img.shields.io/twitter/follow/DongHuangT1?label=@Twitter&style=social
+[5]: https://img.shields.io/badge/@Email-😎-success?style=social&logo=Minutemailer
+[6]: https://img.shields.io/badge/Blog-DongHuangT1-orange?style=flat&logo=Cloudflare
